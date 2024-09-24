@@ -60,7 +60,7 @@ streamlit run app.py
 ## Detailed Overview
 ### 1. Architecture of Retrieval Augmented Generation (RAG)
 
-![RAG_flow](https://github.com/Maithaoly/RAG-System-for-Finanical-News/assets/90881432/ed6ecf09-e9ba-4f18-b16e-bf8f3161316f)
+![image](![image](https://github.com/user-attachments/assets/7f154993-3907-4837-a930-0715fb1ab9fa))
 
 The operation process of RAG can be summarized as follows:
 
@@ -84,7 +84,7 @@ The core idea of CoN is to create sequential reading notes for retrieved documen
 •  In cases where the documents are irrelevant and the model lacks the knowledge to answer, it will respond with "unknown".
 
 #### 2.1 Notes design
-![image](https://github.com/Maithaoly/RAG-System-for-Finanical-News/assets/90881432/df726c7a-af35-455b-b530-dac068d0de49)
+![image](https://github.com/user-attachments/assets/6bf4f541-e269-4d3f-8ac2-91f55b30070e)
 
  Illustration of the CHAIN-OF-NOTE (CON) framework with three distinct types of reading notes. 
 
