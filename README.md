@@ -60,7 +60,7 @@ streamlit run app.py
 ## Detailed Overview
 ### 1. Architecture of Retrieval Augmented Generation (RAG)
 
-![image](![image](https://github.com/user-attachments/assets/7f154993-3907-4837-a930-0715fb1ab9fa))
+![image](https://github.com/user-attachments/assets/7f154993-3907-4837-a930-0715fb1ab9fa)
 
 The operation process of RAG can be summarized as follows:
 
